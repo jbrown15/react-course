@@ -101,13 +101,13 @@ body, .app {
 
 .add-contact {
   display: block;
-  width: 73px;
+  width: 250px;
   background: white;
   background-image: url('./icons/person-add.svg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 28px;
-  font-size: 0;
+  font-size: 1;
 }
 
 .showing-contacts {
